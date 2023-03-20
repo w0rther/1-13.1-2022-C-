@@ -1,0 +1,3 @@
+C:\Users\pfandler.richard\Documents\123\PontHatOOP\PontHat\obj\Debug\PontHat.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\Documents\123\PontHatOOP\PontHat\obj\Debug\PontHat.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\Documents\123\PontHatOOP\PontHat\obj\Debug\PontHat.csproj.CoreCompileInputs.cache
