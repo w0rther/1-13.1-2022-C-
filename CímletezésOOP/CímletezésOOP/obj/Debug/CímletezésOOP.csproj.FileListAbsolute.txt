@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\bin\Debug\CímletezésOOP.exe.config
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\bin\Debug\CímletezésOOP.exe
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\bin\Debug\CímletezésOOP.pdb
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\obj\Debug\CímletezésOOP.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\obj\Debug\CímletezésOOP.exe
+C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CímletezésOOP\obj\Debug\CímletezésOOP.pdb

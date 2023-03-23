@@ -10,6 +10,15 @@ namespace CímletezésOOP
     {
         static void Main(string[] args)
         {
+            CímletezésOOP1 szamol = new CímletezésOOP1();
+
+            Console.WriteLine("Pénz: ");
+            int penzek = Convert.ToInt32(Console.ReadLine());
+            szamol.setA(penzek);
+
+            Console.ReadKey();
+
+
         }
     }
 }

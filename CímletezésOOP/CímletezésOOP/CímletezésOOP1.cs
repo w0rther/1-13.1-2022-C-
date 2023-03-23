@@ -17,14 +17,14 @@ namespace CímletezésOOP
         {
             this.a = a;
         }
-        public int getA() { return this.a  }
+        public int getA() { return this.a; }
         public void setA(int a)
         {
             int mar = 0;
             this.a = a;
-            for (int i = b.Length = 1; i >= 0; i--)
+            for (int i = b.Length  -1; i >= 0; i--)
             {
-                while (a >= lista[1])
+                while (a >= b[i])
                 {
                     a -= b[i];
                     mar++;
@@ -35,7 +35,7 @@ namespace CímletezésOOP
 
 
 
-       
+
     }
 
 }
