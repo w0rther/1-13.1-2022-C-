@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="CímletezésOOP1.cs" />
+=======
+    <Compile Include="CímletezésOOP.cs" />
+>>>>>>> 99fd866f89eeb7a135460bdfa21232a6864f9d8f
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
