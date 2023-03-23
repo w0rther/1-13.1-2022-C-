@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\bin\Debug\homerseklet.exe.config
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\bin\Debug\homerseklet.exe
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\bin\Debug\homerseklet.pdb
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\obj\Debug\homerseklet.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\obj\Debug\homerseklet.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\obj\Debug\homerseklet.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\obj\Debug\homerseklet.exe
+C:\Users\pfandler.richard\Documents\123\szamok\homerseklet\obj\Debug\homerseklet.pdb

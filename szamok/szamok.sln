@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamok", "szamok\szamok.csproj", "{577A9454-E439-416A-BABB-B79655A69FD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homerseklet", "homerseklet\homerseklet.csproj", "{B8D1F85D-D541-48AC-9A67-93B66A21E9C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{577A9454-E439-416A-BABB-B79655A69FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{577A9454-E439-416A-BABB-B79655A69FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{577A9454-E439-416A-BABB-B79655A69FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D1F85D-D541-48AC-9A67-93B66A21E9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D1F85D-D541-48AC-9A67-93B66A21E9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D1F85D-D541-48AC-9A67-93B66A21E9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D1F85D-D541-48AC-9A67-93B66A21E9C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
