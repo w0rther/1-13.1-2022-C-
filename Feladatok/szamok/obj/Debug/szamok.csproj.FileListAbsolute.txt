@@ -6,3 +6,11 @@ C:\Users\pfandler.richard\Documents\123\szamok\szamok\obj\Debug\szamok.csproj.Su
 C:\Users\pfandler.richard\Documents\123\szamok\szamok\obj\Debug\szamok.csproj.CoreCompileInputs.cache
 C:\Users\pfandler.richard\Documents\123\szamok\szamok\obj\Debug\szamok.exe
 C:\Users\pfandler.richard\Documents\123\szamok\szamok\obj\Debug\szamok.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\bin\Debug\szamok.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\bin\Debug\szamok.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\bin\Debug\szamok.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\obj\Debug\szamok.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\obj\Debug\szamok.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\obj\Debug\szamok.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\obj\Debug\szamok.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\szamok\obj\Debug\szamok.pdb

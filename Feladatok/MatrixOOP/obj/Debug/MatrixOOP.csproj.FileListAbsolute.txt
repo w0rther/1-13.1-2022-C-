@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\bin\Debug\MatrixOOP.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\bin\Debug\MatrixOOP.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\bin\Debug\MatrixOOP.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\obj\Debug\MatrixOOP.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\obj\Debug\MatrixOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\obj\Debug\MatrixOOP.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\obj\Debug\MatrixOOP.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\MatrixOOP\obj\Debug\MatrixOOP.pdb

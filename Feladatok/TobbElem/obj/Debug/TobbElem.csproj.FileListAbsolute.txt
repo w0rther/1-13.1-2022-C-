@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\obj\Debug\TobbElem.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\obj\Debug\TobbElem.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\bin\Debug\TobbElem.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\bin\Debug\TobbElem.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\bin\Debug\TobbElem.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\obj\Debug\TobbElem.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\Feladatok\TobbElem\obj\Debug\TobbElem.pdb

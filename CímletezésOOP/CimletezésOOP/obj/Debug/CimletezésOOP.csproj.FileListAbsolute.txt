@@ -6,3 +6,11 @@ C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CimletezésOOP\obj\Debug
 C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.csproj.CoreCompileInputs.cache
 C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.exe
 C:\Users\pfandler.richard\Documents\123\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\bin\Debug\CimletezésOOP.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\bin\Debug\CimletezésOOP.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\bin\Debug\CimletezésOOP.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\Új mappa\CímletezésOOP\CimletezésOOP\obj\Debug\CimletezésOOP.pdb
