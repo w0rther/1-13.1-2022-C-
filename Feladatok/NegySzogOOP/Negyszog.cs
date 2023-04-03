@@ -9,11 +9,9 @@ namespace NegyszogOOP
 {
     internal class Negyszog
     {
-        // Konstruktor
-        public int i = 0, x = 0, y = 0; //Az i, x, y tárolása
-        Random rnd = new Random(); //Random szám bekérése
-        public int ran; //A ran tárolás
-
+        public int i = 0, x = 0, y = 0;
+        Random rnd = new Random(); 
+        public int ran; 
         public Negyszog() { }
         public Negyszog(int i, int x, int y, int ran)
         {
@@ -22,7 +20,6 @@ namespace NegyszogOOP
             this.y = y;
             this.ran = ran;
         }
-        // Konzolra íratás
         public void kiiratas()
         {
             while (x < 79)
