@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\bin\Debug\FileInOut.exe.config
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\bin\Debug\FileInOut.exe
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\bin\Debug\FileInOut.pdb
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\obj\Debug\FileInOut.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\obj\Debug\FileInOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\obj\Debug\FileInOut.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\obj\Debug\FileInOut.exe
+C:\Users\pfandler.richard\Documents\a\Feladatok\FileInOut\obj\Debug\FileInOut.pdb
