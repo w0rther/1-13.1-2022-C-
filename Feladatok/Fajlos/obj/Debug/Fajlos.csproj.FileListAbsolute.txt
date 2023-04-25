@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\bin\Debug\Fajlos.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\bin\Debug\Fajlos.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\bin\Debug\Fajlos.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\obj\Debug\Fajlos.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\obj\Debug\Fajlos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\obj\Debug\Fajlos.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\obj\Debug\Fajlos.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\a\Feladatok\Fajlos\obj\Debug\Fajlos.pdb
