@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\bin\Debug\szamok1.exe.config
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\bin\Debug\szamok1.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\bin\Debug\szamok1.pdb
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\obj\Debug\szamok1.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\obj\Debug\szamok1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\obj\Debug\szamok1.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\obj\Debug\szamok1.exe
+C:\Users\pfandler.richard\source\repos\1-13.1-2022-C-\213\111\Feladatok\szamok1\obj\Debug\szamok1.pdb
