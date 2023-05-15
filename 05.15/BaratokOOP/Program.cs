@@ -8,29 +8,38 @@ namespace BaratokOOP
 {
     internal class Program
     {
-        private static Baratok baratok;
-        static void Main(string[] args)
+        private static Barat barat;
+        static void Main(string[] args) // Statikus Main
         {
-            baratok = new Baratok();
-            string[] t = { "teszt aranka", "1991.11.12", "N", "4," };
+            barat = new Barat();
+            string[] t = { "teszt aranka", "1991.11.12", "N", "4" };
+            barat.beolvas();
+            vizsga(t[0]);
 
-            baratok.beolvas();
+            /*
+            barat.kereses(t[0]);
+            vizsgalat(t[0]);
+            */
+
+            barat.insertBarat(t);
             vizsga(t[0]);
-            baratok.instertBarat(t);
-            vizsga(t[0]);
-            baratok.delete(t[0]);
+
+            barat.delete(t[0]);
             vizsga(t[0]);
 
             Console.ReadKey();
-
         }
-        private static void vizsga(string t)
+        private static void vizsga(string t) // Visszatérési érték
         {
-        if (baratok.kereses(t))
-            Console.WriteLine("Már van ilyen barátunk");
-        else 
-            Console.WriteLine("Nincs ilyen barátunk");
-            }
 
+            if (barat.kereses(t))
+            {
+                Console.WriteLine("Már van ilyen barátunk.");
+            }
+            else
+            {
+                Console.WriteLine("Nincs ilyen barátunk.");
+            }
+        }
     }
 }
