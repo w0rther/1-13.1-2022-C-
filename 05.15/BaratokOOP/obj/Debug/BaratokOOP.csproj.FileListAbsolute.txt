@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\bin\Debug\BaratokOOP.exe.config
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\bin\Debug\BaratokOOP.exe
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\bin\Debug\BaratokOOP.pdb
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\obj\Debug\BaratokOOP.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\obj\Debug\BaratokOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\obj\Debug\BaratokOOP.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\obj\Debug\BaratokOOP.exe
+C:\Users\pfandler.richard\source\repos\asd\05.15\BaratokOOP\obj\Debug\BaratokOOP.pdb
