@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gomb", "Gomb\Gomb.csproj", "{1F3E4567-BDA4-42B9-9350-920EDE0F3110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat", "Feladat\Feladat.csproj", "{31BD6376-4452-41CE-9349-3E164CF12B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3E4567-BDA4-42B9-9350-920EDE0F3110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3E4567-BDA4-42B9-9350-920EDE0F3110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3E4567-BDA4-42B9-9350-920EDE0F3110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3E4567-BDA4-42B9-9350-920EDE0F3110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BD6376-4452-41CE-9349-3E164CF12B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BD6376-4452-41CE-9349-3E164CF12B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BD6376-4452-41CE-9349-3E164CF12B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BD6376-4452-41CE-9349-3E164CF12B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E51617A1-D4EF-4803-8735-41820B717FC5}
+	EndGlobalSection
+EndGlobal

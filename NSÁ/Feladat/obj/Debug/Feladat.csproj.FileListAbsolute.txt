@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\obj\Debug\Feladat.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\obj\Debug\Feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\obj\Debug\Feladat.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\bin\Debug\Feladat.exe.config
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\bin\Debug\Feladat.exe
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\bin\Debug\Feladat.pdb
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\obj\Debug\Feladat.exe
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Feladat\obj\Debug\Feladat.pdb
