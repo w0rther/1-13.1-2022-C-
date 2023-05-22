@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe.config
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\bin\Debug\Dolgozat.pdb
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\obj\Debug\Dolgozat.exe
+C:\Users\pfandler.richard\source\repos\asd\Dolgozat\Dolgozat\obj\Debug\Dolgozat.pdb
