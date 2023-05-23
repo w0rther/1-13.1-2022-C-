@@ -1,0 +1,3 @@
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Gomb\obj\Debug\Gomb.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Gomb\obj\Debug\Gomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\Gomb\obj\Debug\Gomb.csproj.CoreCompileInputs.cache

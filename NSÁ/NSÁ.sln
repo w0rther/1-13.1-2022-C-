@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gomb", "Gomb\Gomb.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat", "Feladat\Feladat.csproj", "{31BD6376-4452-41CE-9349-3E164CF12B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paros", "paros\paros.csproj", "{0570EECF-8494-4927-A057-F1845567388C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{31BD6376-4452-41CE-9349-3E164CF12B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BD6376-4452-41CE-9349-3E164CF12B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BD6376-4452-41CE-9349-3E164CF12B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0570EECF-8494-4927-A057-F1845567388C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0570EECF-8494-4927-A057-F1845567388C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0570EECF-8494-4927-A057-F1845567388C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0570EECF-8494-4927-A057-F1845567388C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

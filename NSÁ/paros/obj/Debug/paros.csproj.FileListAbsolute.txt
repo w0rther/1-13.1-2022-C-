@@ -1,0 +1,8 @@
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\bin\Debug\paros.exe.config
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\bin\Debug\paros.exe
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\bin\Debug\paros.pdb
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\obj\Debug\paros.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\obj\Debug\paros.csproj.SuggestedBindingRedirects.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\obj\Debug\paros.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\obj\Debug\paros.exe
+C:\Users\pfandler.richard\source\repos\asd\NSÁ\paros\obj\Debug\paros.pdb
