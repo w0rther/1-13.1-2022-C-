@@ -1,0 +1,17 @@
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\bin\Debug\net6.0-windows\Elsoform.exe
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\bin\Debug\net6.0-windows\Elsoform.deps.json
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\bin\Debug\net6.0-windows\Elsoform.runtimeconfig.json
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\bin\Debug\net6.0-windows\Elsoform.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\bin\Debug\net6.0-windows\Elsoform.pdb
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.Form1.resources
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.csproj.GenerateResource.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.AssemblyInfoInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.AssemblyInfo.cs
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\refint\Elsoform.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.pdb
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\Elsoform.genruntimeconfig.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\Elsoform\obj\Debug\net6.0-windows\ref\Elsoform.dll
