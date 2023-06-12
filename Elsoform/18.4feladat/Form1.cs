@@ -63,11 +63,6 @@ namespace _18._4feladat
 
         }
 
-        private void y(object sender, EventArgs e)
-        {
-
-        }
-
         private void Bt_Le_T_Click(object sender, EventArgs e)
         {
             Top = Screen.PrimaryScreen.Bounds.Height - Height;
