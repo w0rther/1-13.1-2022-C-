@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.4feladat\\18.4feladat.csproj": {}
+    "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.4feladat\\18.4feladat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.4feladat\\18.4feladat.csproj": {
+    "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.4feladat\\18.4feladat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.4feladat\\18.4feladat.csproj",
+        "projectUniqueName": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.4feladat\\18.4feladat.csproj",
         "projectName": "18.4feladat",
-        "projectPath": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.4feladat\\18.4feladat.csproj",
+        "projectPath": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.4feladat\\18.4feladat.csproj",
         "packagesPath": "C:\\Users\\pfandler.richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.4feladat\\obj\\",
+        "outputPath": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.4feladat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pfandler.richard\\AppData\\Roaming\\NuGet\\NuGet.Config",

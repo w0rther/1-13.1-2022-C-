@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.1\\18.1.csproj",
+      "projectUniqueName": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.1\\18.1.csproj",
       "projectName": "18.1",
-      "projectPath": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.1\\18.1.csproj",
+      "projectPath": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.1\\18.1.csproj",
       "packagesPath": "C:\\Users\\pfandler.richard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pfandler.richard\\source\\repos\\asd\\Elsoform\\18.1\\obj\\",
+      "outputPath": "C:\\Users\\pfandler.richard\\source\\repos\\1-13.1-2022-C-\\asdasd\\Elsoform\\18.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pfandler.richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
