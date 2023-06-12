@@ -91,6 +91,7 @@
             this.Bt_Jobb_T.TabIndex = 4;
             this.Bt_Jobb_T.Text = "Teljesen";
             this.Bt_Jobb_T.UseVisualStyleBackColor = true;
+            this.Bt_Jobb_T.Click += new System.EventHandler(this.Bt_Jobb_T_Click);
             // 
             // Bt_Bal_T
             // 
@@ -100,6 +101,7 @@
             this.Bt_Bal_T.TabIndex = 5;
             this.Bt_Bal_T.Text = "Teljesen";
             this.Bt_Bal_T.UseVisualStyleBackColor = true;
+            this.Bt_Bal_T.Click += new System.EventHandler(this.Bt_Bal_T_Click);
             // 
             // Bt_Fel
             // 
@@ -109,7 +111,7 @@
             this.Bt_Fel.TabIndex = 6;
             this.Bt_Fel.Text = "Fel";
             this.Bt_Fel.UseVisualStyleBackColor = true;
-            this.Bt_Fel.Click += new System.EventHandler(this.y);
+            this.Bt_Fel.Click += new System.EventHandler(this.Bt_Fel_Click);
             // 
             // Bt_Le
             // 
@@ -119,6 +121,7 @@
             this.Bt_Le.TabIndex = 7;
             this.Bt_Le.Text = "Le";
             this.Bt_Le.UseVisualStyleBackColor = true;
+            this.Bt_Le.Click += new System.EventHandler(this.Bt_Le_Click);
             // 
             // Bt_Bal
             // 
@@ -128,6 +131,7 @@
             this.Bt_Bal.TabIndex = 8;
             this.Bt_Bal.Text = "Balra";
             this.Bt_Bal.UseVisualStyleBackColor = true;
+            this.Bt_Bal.Click += new System.EventHandler(this.Bt_Bal_Click);
             // 
             // Bt_Jobb
             // 
@@ -137,6 +141,7 @@
             this.Bt_Jobb.TabIndex = 9;
             this.Bt_Jobb.Text = "Jobbra";
             this.Bt_Jobb.UseVisualStyleBackColor = true;
+            this.Bt_Jobb.Click += new System.EventHandler(this.Bt_Jobb_Click);
             // 
             // Bt_Kozep
             // 

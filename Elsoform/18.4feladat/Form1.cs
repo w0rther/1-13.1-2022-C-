@@ -69,5 +69,61 @@ namespace _18._4feladat
             Bt_Fel.Visible = Bt_Fel_T.Visible = true;
             Bt_Le.Visible = Bt_Le_T.Visible = false;
         }
+
+        private void Bt_Le_Click(object sender, EventArgs e)
+        {
+            if (Top +meretezo > 0)
+            {
+                Top += meretezo;
+            }
+            else
+            {
+                Top = 0;
+                Bt_Fel.Visible = Bt_Fel_T.Visible = true;
+            }
+            Bt_Le.Visible = Bt_Le_T.Visible = true;
+        }
+
+        private void Bt_Jobb_Click(object sender, EventArgs e)
+        {
+            if (Left + meretezo > 0)
+            {
+                Left += meretezo;
+            }
+            else
+            {
+                Left = 0;
+                Bt_Jobb.Visible = Bt_Jobb_T.Visible = true;
+            }
+            Bt_Bal.Visible = Bt_Bal_T.Visible = true;
+        }
+
+        private void Bt_Jobb_T_Click(object sender, EventArgs e)
+        {
+            Left = Screen.PrimaryScreen.Bounds.Width - Width;
+            Bt_Bal.Visible = Bt_Bal_T.Visible = true;
+            Bt_Jobb.Visible = Bt_Jobb_T.Visible = false;
+        }
+
+        private void Bt_Bal_Click(object sender, EventArgs e)
+        {
+            if (Left - meretezo > 0)
+            {
+                Left -= meretezo;
+            }
+            else
+            {
+                Left = 0;
+                Bt_Bal.Visible = Bt_Bal_T.Visible = false;
+            }
+            Bt_Jobb.Visible = Bt_Jobb_T.Visible = true;
+        }
+
+        private void Bt_Bal_T_Click(object sender, EventArgs e)
+        {
+            Left = 0;
+            Bt_Bal.Visible = Bt_Bal_T.Visible = false;
+            Bt_Jobb.Visible = Bt_Jobb_T.Visible = true;
+        }
     }
-}
+    }

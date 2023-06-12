@@ -1,0 +1,17 @@
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\bin\Debug\net6.0-windows\18.5.exe
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\bin\Debug\net6.0-windows\18.5.deps.json
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\bin\Debug\net6.0-windows\18.5.runtimeconfig.json
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\bin\Debug\net6.0-windows\18.5.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\bin\Debug\net6.0-windows\18.5.pdb
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.csproj.AssemblyReference.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\_18._5.Frm_Csuszka.resources
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.csproj.GenerateResource.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.AssemblyInfoInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.AssemblyInfo.cs
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.csproj.CoreCompileInputs.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\refint\18.5.dll
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.pdb
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\18.5.genruntimeconfig.cache
+C:\Users\pfandler.richard\source\repos\asd\Elsoform\18.5\obj\Debug\net6.0-windows\ref\18.5.dll
